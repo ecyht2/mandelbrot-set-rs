@@ -1,6 +1,8 @@
 # Mandelbrot Set
 A Rust script that computes if a given complex number is within the Mandelbrot set.
 
+The C++ implementation of the script can be found [here](https://github.com/ecyht2/EEEE2065-cw4).
+
 ## Installation
 
 ### Dependency
