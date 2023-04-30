@@ -1,5 +1,5 @@
-# rust-template
-Template Repository for a Rust program.
+# Mandelbrot Set
+A Rust script that computes if a given complex number is within the Mandelbrot set.
 
 ## Installation
 
@@ -9,4 +9,4 @@ The installation tutorial assumes that you have [rust](http://www.rust-lang.org)
 ## Usage
 
 ## Documentation
-The API documentation of the library can be found in the project [GitHub pages](https://ecyht2.github.io/rust-template/)
+The API documentation of the library can be found in the project [GitHub pages](https://ecyht2.github.io/mandelbrot-set-rs/)
