@@ -1,3 +1,5 @@
+[![Rust](https://github.com/ecyht2/mandelbrot-set-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/ecyht2/mandelbrot-set-rs/actions/workflows/rust.yml)
+
 # Mandelbrot Set
 A Rust script that computes if a given complex number is within the Mandelbrot set.
 
